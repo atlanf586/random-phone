@@ -1,0 +1,22 @@
+{
+  "name": "random-phone",
+  "version": "1.1.0",
+  "description": "Generates a random US phone number",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlanf586/random-phone.git"
+  },
+  "author": "atlanf586",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atlanf586/random-phone/issues"
+  },
+  "homepage": "https://github.com/atlanf586/random-phone#readme",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": []
+}
